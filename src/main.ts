@@ -13,3 +13,5 @@ $addButton.addEventListener("click", () => {
 console.log("ADD 001");
 console.log("ADD 002");
 console.log("ADD 003");
+
+console.log("ADD 010");

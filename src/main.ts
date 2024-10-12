@@ -15,3 +15,4 @@ console.log("ADD 002");
 console.log("ADD 003");
 
 console.log("ADD 010");
+console.log("ADD 006");

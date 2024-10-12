@@ -11,3 +11,4 @@ $addButton.addEventListener("click", () => {
 });
 
 console.log("ADD 001");
+console.log("ADD 002");

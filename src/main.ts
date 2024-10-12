@@ -9,3 +9,6 @@ $addButton.addEventListener("click", () => {
 
   $addResult.innerText = (num1 + num2).toString();
 });
+
+console.log("ADD 001");
+console.log("ADD 002");
